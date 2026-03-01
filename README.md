@@ -7,7 +7,7 @@ VATSIM ağındaki Türkiye hava sahası (LTXX) trafiğini izleyen ve ilgili meyd
 
 · Akıllı METAR Sorgulama: Trafik olan meydanların hava durumunu otomatik listeler.
 
-· ES Modu (Overlay): Simülatör veya EuroScope üzerinde kullanıma uygun, çerçevesiz ve şeffaf mod.
+· ES Modu (Overlay): EuroScope üzerinde kullanıma uygun, çerçevesiz ve şeffaf mod.
 
 · Özet Görünüm: METAR verilerini rüzgar ve basınç (QNH) olarak sadeleştiren mod.
 
@@ -25,7 +25,7 @@ An external plugin that monitors VATSIM network traffic in Turkish airspace (LTX
 
 · Smart METAR Fetching: Automatically retrieves weather reports for active airports.
 
-· ES Mode (Overlay): Frameless and transparent mode, perfect for use over simulators or EuroScope.
+· ES Mode (Overlay): Frameless and transparent mode, perfect for use over EuroScope.
 
 · Summary View: Simplifies METAR data to wind and pressure (QNH) info only.
 
