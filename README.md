@@ -1,7 +1,8 @@
-ShortMetarForTurkAirspace ✈️
+                                                          ShortMetarForTurkAirspace ✈️
+
 VATSIM ağındaki Türkiye hava sahası (LTXX) trafiğini izleyen ve ilgili meydanların güncel METAR verilerini kullanıcının isteği özelinde sunan,bir harici plugindir.
 
-🇹🇷 Türkçe
+  🇹🇷 Türkçe
 · Canlı VATSIM Verisi: Türkiye hava sahasındaki (LTXX) tüm aktif kalkış ve varış trafiklerini anlık takip eder.
 
 · Akıllı METAR Sorgulama: Trafik olan meydanların hava durumunu otomatik listeler.
@@ -18,7 +19,8 @@ VATSIM ağındaki Türkiye hava sahası (LTXX) trafiğini izleyen ve ilgili meyd
 
 · Çift Dil: Türkçe ve İngilizce dil desteği.
 
-🇺🇸 English
+  🇺🇸 English
+  
 An external plugin that monitors VATSIM network traffic in Turkish airspace (LTXX) and provides up-to-date METAR data for relevant airports based on user preferences.
 
 · Smart METAR Fetching: Automatically retrieves weather reports for active airports.
