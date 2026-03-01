@@ -1,4 +1,4 @@
-                                                          ShortMetarForTurkAirspace ✈️
+                                                       ShortMetarForTurkAirspace ✈️
 
 VATSIM ağındaki Türkiye hava sahası (LTXX) trafiğini izleyen ve ilgili meydanların güncel METAR verilerini kullanıcının isteği özelinde sunan,bir harici plugindir.
 
