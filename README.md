@@ -46,3 +46,19 @@ An external plugin that monitors VATSIM network traffic in Turkish airspace (LTX
 Python 3.x
 requests
 customtkinter
+
+🛠 Bilinen Hatalar & Geliştirme (Known Bugs & Roadmap)
+🇹🇷 Türkçe
+· Bug: ES Modundan çıkış yapıldığında ana arayüzün yerleşiminde (layout) kaymalar veya görsel farklılıklar oluşabiliyor.
+
+· İyileştirme: ES modunda şeffaf pencereyi hareket ettirmek için metin alanının en kenarlarından (border kısımlarından) tutulması gerekmektedir. Orta kısımdan sürükleme hassasiyeti üzerinde çalışılıyor.
+
+
+· Bug: Layout inconsistencies or visual differences may occur in the main UI when exiting ES Mode.
+
+· Improvement: In ES Mode, the transparent window must be dragged by the edges of the textbox. Sensitivity for dragging from the center is currently being optimized.
+
+💡 Geliştirici Notu (Developer Tip)
+· TR: ES modundayken pencereyi hareket ettiremiyorsanız, lütfen farenizle metin kutusunun en sağ veya en sol sınırından tutarak sürüklemeyi deneyin.
+
+· EN: If you have trouble moving the window in ES mode, please try dragging it by holding the far left or right/top or bottom edges of the textbox.
