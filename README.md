@@ -1,8 +1,7 @@
-ShortMetarForTurkAirspace ✈️
-
+ShortMetarForTurkAirspace 
 VATSIM ağındaki Türkiye hava sahası (LTXX) trafiğini izleyen ve ilgili meydanların güncel METAR verilerini kullanıcının isteği özelinde sunan,bir harici plugindir.
 
-  🇹🇷 Türkçe
+  Türkçe
 · Canlı VATSIM Verisi: Türkiye hava sahasındaki (LTXX) tüm aktif kalkış ve varış trafiklerini anlık takip eder.
 
 · Akıllı METAR Sorgulama: Trafik olan meydanların hava durumunu otomatik listeler.
@@ -19,7 +18,7 @@ VATSIM ağındaki Türkiye hava sahası (LTXX) trafiğini izleyen ve ilgili meyd
 
 · Çift Dil: Türkçe ve İngilizce dil desteği.
 
-  🇺🇸 English
+   English
   
 An external plugin that monitors VATSIM network traffic in Turkish airspace (LTXX) and provides up-to-date METAR data for relevant airports based on user preferences.
 
@@ -37,7 +36,7 @@ An external plugin that monitors VATSIM network traffic in Turkish airspace (LTX
 
 · Dual Language: Full Turkish and English support.
 
-⌨️ Kısayollar (Shortcuts)
+ Kısayollar (Shortcuts)
 · ES Mode Exit: Escape (Ayarlardan değiştirilebilir / Changeable via settings).
 
 · Drag & Move: Uygulamayı metin alanından tutarak sürükleyebilirsiniz / Drag the app from the text area.
@@ -47,7 +46,7 @@ Python 3.x
 requests
 customtkinter
 
-🛠 Bilinen Hatalar & Geliştirme (Known Bugs & Roadmap)
+ Bilinen Hatalar & Geliştirme (Known Bugs & Roadmap)
 🇹🇷 Türkçe
 · Bug: ES Modundan çıkış yapıldığında ana arayüzün yerleşiminde (layout) kaymalar veya görsel farklılıklar oluşabiliyor.
 
@@ -58,7 +57,7 @@ customtkinter
 
 · Improvement: In ES Mode, the transparent window must be dragged by the edges of the textbox. Sensitivity for dragging from the center is currently being optimized.
 
-💡 Geliştirici Notu (Developer Tip)
+ Geliştirici Notu (Developer Tip)
 · TR: ES modundayken pencereyi hareket ettiremiyorsanız, lütfen farenizle metin kutusunun en sağ veya en sol sınırından tutarak sürüklemeyi deneyin.
 
 · EN: If you have trouble moving the window in ES mode, please try dragging it by holding the far left or right/top or bottom edges of the textbox.
