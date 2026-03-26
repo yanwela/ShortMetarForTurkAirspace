@@ -58,8 +58,9 @@ customtkinter
 · Improvement: In ES Mode, the transparent window must be dragged by the edges of the textbox. Sensitivity for dragging from the center is currently being optimized.
 
  Geliştirici Notu (Developer Tip)
-· TR: ES modundayken pencereyi hareket ettiremiyorsanız, lütfen farenizle metin kutusunun en sağ veya en sol sınırından tutarak sürüklemeyi deneyin.
+· TR: ES modundayken pencereyi hareket ettiremiyorsanız, lütfen farenizle metin kutusunun en sağ veya en sol sınırından tutarak sürüklemeyi deneyin. "TipsForEsMode.png" adlı dosyada uygun konum belirtilmiştir.
 
-· EN: If you have trouble moving the window in ES mode, please try dragging it by holding the far left or right/top or bottom edges of the textbox.
+· EN: If you have trouble moving the window in ES mode, please try dragging it by holding the far left or right/top or bottom edges of the textbox.The appropriate location is specified in the file named "TipsForEsMode.png".
 
-Maded by Alp-1863530.
+Maded by Alp-1863530
+Enjoy!
