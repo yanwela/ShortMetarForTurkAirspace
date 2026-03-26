@@ -188,7 +188,7 @@ class VatsimTRApp(ctk.CTk):
         self._y = event.y
 
     def on_drag(self, event):
-        # Pencereyi hareket ettir (Windows API kullanmadan)
+        # Pencereyi hareket ettir 
         deltax = event.x - self._x
         deltay = event.y - self._y
         x = self.winfo_x() + deltax
